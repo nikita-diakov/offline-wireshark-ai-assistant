@@ -1,0 +1,5 @@
+## Privacy / Safety
+
+- Do **not** commit real PCAP/PCAPNG files. The repository `.gitignore` blocks them by default.
+- Reports should be treated as sensitive: sanitize internal hostnames, domains, and IPs before sharing.
+- GPT4All can be sandboxed (Flatpak) to disable network access and restrict filesystem access to this repo folder.
