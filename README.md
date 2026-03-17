@@ -1,4 +1,9 @@
 # Offline Wireshark → GPT4All LocalDocs Assistant (Ubuntu 24)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420)
+![Offline](https://img.shields.io/badge/Offline-first-2ea44f)
+![No Cloud](https://img.shields.io/badge/No%20cloud-c9d1d9)
+![No Server](https://img.shields.io/badge/No%20server%20ports-c9d1d9)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
 A small, **offline-first** lab/toolkit that turns Wireshark captures (`.pcap` / `.pcapng`) into **sanitized Markdown reports** using `tshark`, then lets you analyze those reports using **GPT4All Desktop + LocalDocs** — **without cloud calls** and **without exposing a web service**.
 
